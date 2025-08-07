@@ -90,15 +90,10 @@ The simulation covered the full analytics workflow — from understanding the bu
 - **Ethics checklist** – bias mitigation steps
 - **Final client presentation** – recommendations for delinquency reduction
 
-*(Screenshots and final report PDFs included in the `deliverables/` folder.)*
+
 
 ---
 
-## 📜 Certificate
-![Certificate Screenshot](certificate.png)  
-[View Credential on Forage](YOUR_CERTIFICATE_LINK)
-
----
 
 ## 💡 Key Learnings
 - Gained practical exposure to **GenAI-assisted analytics** for business problem-solving.
