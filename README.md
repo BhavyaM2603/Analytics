@@ -1,105 +1,64 @@
-# Tata iQ – GenAI‑Powered Data Analytics Job Simulation
+# Tata Group Data Analytics Simulation – Forage (Aug 2025)
 
-## 📌 Overview
-This project documents my completion of the **Tata iQ – GenAI‑Powered Data Analytics Job Simulation** on [Forage](https://www.theforage.com).  
-In this simulation, I acted as an **AI Transformation Consultant** for a fictional financial services client, **Geldium Finance**, tasked with reducing **credit card delinquency rates** using **Generative AI‑powered analytics tools**.
-
-The simulation covered the full analytics workflow — from understanding the business problem to delivering AI‑driven recommendations — while emphasizing **ethical, explainable, and responsible AI use**.
+This repository contains my completed work for the Tata Group Data Analytics Virtual Experience Program on Forage. The simulation involved a real-world business scenario where data analytics and generative AI were used to develop insights and guide strategic decisions.
 
 ---
 
-## 🎯 Objective
-- Leverage **GenAI-assisted analytics** to explore data, identify delinquency risk patterns, and build predictive insights.
-- Recommend an actionable, ethical strategy to help the client reduce delinquency and improve collections efficiency.
+## 🧠 Objective
+
+Analyze customer behavior data to:
+- Perform exploratory data analysis (EDA)
+- Identify patterns and risk indicators
+- Build a framework for predictive modeling (no-code)
+- Recommend an AI-driven business strategy
+- Ensure fairness, transparency, and regulatory compliance
 
 ---
 
-## 🛠 Tools & Technologies
-- **GenAI tools** – ChatGPT, Gemini (for insight generation & predictive modeling)
-- **Data visualization** – Excel / Power BI (for exploratory visual analysis)
-- **Business reporting** – PowerPoint, PDF
-- **Documentation** – Forage platform workflow
+## 🔍 What I Did
+
+- 🧹 **Cleaned and explored customer-level data**
+  - Identified key variables: missed payments, credit utilization, debt ratio
+  - Addressed missing data using statistical imputation
+  - Used GenAI to summarize insights and recommend preprocessing
+
+- 📈 **Designed a predictive modeling plan**
+  - Proposed logistic regression and random forest frameworks
+  - Defined evaluation strategy (accuracy, precision, AUC)
+  - Created a SMART intervention plan based on model insights
+
+- 🤖 **Outlined an agentic AI system**
+  - Separated autonomous vs human-reviewed decisions
+  - Designed responsible AI guardrails (bias checks, explainability, GDPR)
+
+- 💼 **Mapped out business impact**
+  - Projected reduction in delinquency
+  - Recommended a scalable, automated outreach strategy
+  - Balanced operational efficiency with customer fairness
 
 ---
 
-## 🏷 Skills Demonstrated
-- AI-assisted data exploration & insight generation
-- Predictive risk modeling (no-code, GenAI-driven)
-- Data ethics & bias mitigation
-- Business reporting & storytelling
-- Client-focused problem framing
+## 📊 Files Included
+
+- `summary_report.pdf`: EDA and modeling strategy summary  
+- `ai_strategy_slides.pdf`: Presentation-style overview of the solution  
+- `README.md`: This project overview
 
 ---
 
-## 📂 Project Workflow
+## 🎯 Skills Demonstrated
 
-### 1️⃣ Understanding the Problem
-- Client: Geldium Finance, a credit card provider.
-- Business challenge: High customer delinquency rates impacting profitability and operations.
-- Goal: Identify high‑risk customers early and implement targeted interventions.
-
----
-
-### 2️⃣ Data Exploration & Cleaning
-- Loaded and examined dataset containing customer demographics, transaction history, repayment history, and account details.
-- Checked for:
-  - Missing or inconsistent values
-  - Outliers and anomalies
-  - Potential data leakage
-- Used **GenAI prompts** to assist in interpreting column meanings and potential data issues.
-
----
-
-### 3️⃣ GenAI‑Powered Predictive Modeling
-- Selected **no-code modeling approach** guided by GenAI to predict customer delinquency risk.
-- Considered:
-  - **Model interpretability** (explainable outputs for business stakeholders)
-  - **Performance trade-offs** (accuracy vs. transparency)
-- Used GenAI to:
-  - Suggest features most correlated with delinquency
-  - Interpret feature importance in a business‑friendly manner
-
----
-
-### 4️⃣ Ethical AI Considerations
-- Identified possible biases in:
-  - Demographic data usage
-  - Historical repayment patterns
-- Recommended:
-  - Removing or minimizing sensitive attributes in modeling
-  - Transparency in how predictions are generated
-  - Ensuring AI outputs are reviewed by human analysts before actioning
-
----
-
-### 5️⃣ Insights & Recommendations
-- High-risk customer profiles share common features:
-  - Low repayment-to-credit ratio
-  - High utilization rates
-  - Frequent missed payment history
-- Suggested **tiered intervention strategy**:
-  - Early engagement for moderate-risk customers
-  - Customized repayment plans for high-risk customers
-- Recommended periodic re-training of the predictive model to maintain accuracy and fairness.
-
----
-
-## 📑 Deliverables
-- **AI-assisted EDA results** – summary tables and charts
-- **Predictive model outline** – no-code tool workflow + GenAI rationale
-- **Ethics checklist** – bias mitigation steps
-- **Final client presentation** – recommendations for delinquency reduction
-
+- Exploratory Data Analysis (EDA)
+- Generative AI for summarization and logic structuring
+- No-code predictive modeling frameworks
+- Business storytelling with data
+- Responsible and explainable AI strategy
 
 
 ---
 
+## 💬 Why This Matters
 
-## 💡 Key Learnings
-- Gained practical exposure to **GenAI-assisted analytics** for business problem-solving.
-- Learned how to balance **model accuracy** with **interpretability** in decision-making.
-- Strengthened understanding of **ethical AI** in financial services analytics.
+This project simulates the end-to-end workflow of a data analyst or strategy analyst in a real-world setting — from data cleanup to insight generation to presenting an AI-driven recommendation to business stakeholders.  
+It demonstrates both **technical reasoning** and **business impact thinking** — critical for roles in analytics, product strategy, and data science.
 
----
-
-## 📂 Repository Structure
