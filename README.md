@@ -1,36 +1,50 @@
-📊 Netflix India EDA
-Exploratory Data Analysis (EDA) of Netflix’s India catalog to uncover content trends, release patterns, and genre preferences. The goal is to translate raw data into actionable insights for potential content strategy decisions.
+Netflix India Content Analysis – Exploratory Data Analysis
+Overview
 
+This project analyzes Netflix India’s content catalog to identify trends in content type, genre distribution, language, release timelines, and duration. Using publicly available datasets, the analysis focuses on understanding how Netflix’s India-specific offerings have evolved over time and what patterns emerge across different categories.
 
----
+The primary objective of this project is to practice end-to-end exploratory data analysis (EDA) and develop the ability to translate raw data into meaningful, interpretable insights.
 
-🔍 Key Highlights
-Analyzed ~6K titles to identify trends in content type, release years, and genres.
+Datasets
 
-Visualized insights using Python, Pandas, Seaborn, and Matplotlib.
+The analysis is based on three CSV files related to Netflix India’s catalog:
 
-Found movies dominate the catalog, with Drama and Comedy as top genres.
+Movies_and_Shows.csv
 
-Identified peak content additions in 2019–2020.
+Shows.csv
 
----
+Seasons.csv
 
-🛠 Tools & Skills
-Languages: Python (Pandas, NumPy)
+These datasets contain metadata such as content type, genre, language, release year, and duration.
 
-Visualization: Seaborn, Matplotlib
+Tools & Technologies
 
-Skills: Data cleaning, EDA, trend analysis, visualization
+Python: Pandas, NumPy
 
----
+Visualization: Matplotlib, Seaborn
 
-📈 Output & Analysis
-Content Type: ~70% Movies, ~30% TV Shows
+Environment: Jupyter Notebook
 
-Top Genres: Drama, Comedy, International TV Shows dominate viewership trends
+Project Objectives
 
-Release Trends: Sharp rise in content additions from 2017–2020, peaking in 2019–2020
+Clean and preprocess multiple datasets by handling missing values and inconsistencies
 
-Country Insights: India, USA, and UK lead in content production
+Explore trends in content type, genre, language, and duration
 
-Business Implication: High demand for Drama & Comedy suggests acquisition focus; post-2020 dip may indicate strategic content
+Analyze changes in Netflix India’s catalog over time
+
+Visualize patterns to support exploratory insights
+
+Key Insights
+
+Growth in Indian content increased notably after 2018, particularly in scripted series.
+
+Drama and comedy are the most represented genres, with steady growth in niche formats such as documentaries and stand-up.
+
+English and Hindi dominate the catalog, while regional language content shows gradual expansion.
+
+A large portion of content falls within shorter duration ranges, indicating a preference for compact formats.
+
+Conclusion
+
+This project demonstrates a structured approach to exploratory data analysis using real-world entertainment data. It highlights the process of cleaning raw datasets, exploring patterns through visualization, and interpreting trends in a business-relevant context.
